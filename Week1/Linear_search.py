@@ -12,7 +12,7 @@ def linSearch(array , key):
     if found == True:
         print("Present",numOfComparisons)
     else:
-        print("Not fpresent" , numOfComparisons)
+        print("Not present" , numOfComparisons)
 
 
 def read():
